@@ -26,7 +26,7 @@ SECRET_KEY = "django-insecure-l^vmt4=(dx3zakz28!&hv@5@-y7zr7z@tvifu0o6hl9d#=4s%%
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://kenzie-test-todo.herokuapp.com/']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
